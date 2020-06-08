@@ -1,0 +1,8 @@
+@media(max-width: 900px){
+    #pagesearch .cards{
+        grid-template-columns: 1fr;
+    }
+    #pagesearch .cards img{
+        height: 250px;
+    }
+}
