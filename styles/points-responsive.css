@@ -1,0 +1,11 @@
+@media(max-width: 900px){
+    #pagecreatpoint .fieldgroup{
+        flex-direction: column;
+    }
+    #pagecreatpoint .fieldgroup .field + .field{
+        margin-left: 0;
+    }
+    #pagecreatpoint form button{
+        margin-left: 100px;
+    }
+}
